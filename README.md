@@ -17,3 +17,11 @@ Design tables to hold data in the CSVs, inpect the CSVs and sketch out an ERD of
 7.List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8.In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+Bonus Question:
+
+Import the SQL database into Pandas and answer the following:
+
+1.Create a histogram to visualize the most common salary ranges for employees.
+
+2.Create a bar chart of average salary by title.
