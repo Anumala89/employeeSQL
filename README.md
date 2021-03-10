@@ -1,6 +1,15 @@
 # sql-challenge
 
-Design tables to hold data in the CSVs, inpect the CSVs and sketch out an ERD of the tables, import the CSVs into a SQL data base and answer the following about the data:
+A research project on employees of a corporation to perform Data Engineeing and Data Analysis
+
+
+### Purpose
+
+Tables were designed to hold data in the CSV files and a ERD of the tables was sketched out like below:
+
+![erd](https://github.com/Anumala89/sql-challenge/blob/main/QuickDBD-Employees_EDR.png)
+
+Along with the ERD CSVs were imported  into a SQL data base and to answer the following about the data:
 
 1.List the following details of each employee: employee number, last name, first name, sex, and salary.
 
