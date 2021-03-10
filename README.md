@@ -12,7 +12,7 @@ A research project on employees of a corporation to perform Data Engineeing and 
 
 ### Data Engineering
 
-Along with the ERD, table schema were created keeping in mind to specify data types, primary keys, foreign keys and other constraints. CSVs were imported into the corresponding SQL table.  
+Along with the ERD, table schema were created keeping in mind the specifications of data types, primary keys, foreign keys and other constraints. CSVs were imported into the corresponding SQL table.  
 
 
 ### Data Analysis
