@@ -1,4 +1,4 @@
-# sql-challenge
+# employeeSQL
 
 A research project on employees of a corporation to perform Data Engineeing and Data Analysis
 
